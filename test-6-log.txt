@@ -1,0 +1,11 @@
+12:34:56:78:90|UI|Format test on user input failed
+08:06:18:30:00|UI|Format test on user input failed (CID #34154)
+07:08:23:18:12|DB Mgr|Sending response to UI failed.
+04:12:22:15:00|Wharrgarbl|#$@!ui)SFHJHADSFD
+12:15:08:18:59|TCP|Running test on incoming packet from client (CID #34154).
+07:02:10:13:00|PGM|Finished master election (master hostname=CAEN1695-p14).
+04:25:21:55:36|Thread|Thread #4 closing.
+04:25:21:55:36|Thread|Interrupt event on CPU 3
+04:25:21:55:37|Thread|Thread #12 joined on thread #4
+08:23:12:03:15|TCP|Connection to client lost. (CID #8432)
+01:23:10:03:00|ALRM|Alarm event raised by process (PID #5432)

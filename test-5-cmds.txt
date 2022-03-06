@@ -1,0 +1,19 @@
+# This is the Spec Test!
+c db mgr
+a 10
+p
+# Bruh
+m 04:25:21:54:22
+g
+#Aman
+k lock #3
+k UI
+r
+p
+d 1
+b 1
+p
+s
+p
+q
+

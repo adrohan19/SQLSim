@@ -1,0 +1,14 @@
+#testing tiebreakers
+t 24:69:70:12:36|99:53:66:46:74
+s
+r
+s
+g
+g
+p
+c hemoglobinic
+r
+p
+m 50:51:20:75:81
+g
+q

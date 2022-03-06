@@ -1,0 +1,16 @@
+a 12
+# comment please just work
+a 1
+a 9
+a 5
+k -overstriking-
+r
+k #pinnacling
+r
+k hemoglobinic-
+r
+c -overstriking-
+r
+l
+l
+q

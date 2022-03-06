@@ -1,0 +1,18 @@
+a 14
+# comment please just work
+c -conjugators
+r
+g
+c RETRAINS
+r
+g
+k ovErStrIkiNG
+r
+g
+k #forWarDness
+r
+g
+c conjugAtor#
+g
+l
+q
